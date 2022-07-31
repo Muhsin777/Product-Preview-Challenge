@@ -1,2 +1,3 @@
-# Product-Preview-Challenge
-Front End Mentor - Product Preview Card Component Challenge HTML/CSS
+31 July 2022
+
+First attempt at challenge. Loading project to github repository
